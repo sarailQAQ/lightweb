@@ -1,3 +1,3 @@
-module github.com/sarailQAQ/MyGin/lightweb
+module github.com/sarailQAQ/lightweb
 
 go 1.13
